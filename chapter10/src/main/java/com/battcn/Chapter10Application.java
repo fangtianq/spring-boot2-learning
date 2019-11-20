@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Chapter10Application {
 
     public static void main(String[] args) {
+        System.out.println("gggggg===");
         SpringApplication.run(Chapter10Application.class, args);
     }
 
